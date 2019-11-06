@@ -1,0 +1,169 @@
+img {
+  top: -4px;
+  left: 0px;
+  width: 1200px;
+  height: 597px;
+  opacity: 1; }
+
+.icono {
+  height: 45px;
+  width: 45px;
+  float: left;
+  margin: 8px 0 0 10px; }
+
+.icono_flecha {
+  height: 25px;
+  width: 25px;
+  float: right;
+  padding: 5px 10px 0 0; }
+
+.conoce_nuestro_proyecto {
+  top: 204px;
+  left: 109px;
+  width: 372px;
+  height: 64px;
+  background: transparent linear-gradient(156deg, #00B245 0%, #008C44 100%) 0% 0% no-repeat padding-box;
+  box-shadow: 0px 4px 6px #50474134;
+  border-radius: 15px;
+  opacity: 1;
+  position: absolute; }
+  .conoce_nuestro_proyecto p {
+    color: white;
+    font-family: roboto;
+    margin-top: 8px; }
+
+.alejandria {
+  top: -270px;
+  left: 85px;
+  width: 372px;
+  height: 325px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 10px 30px #00000026;
+  border-radius: 15px;
+  opacity: 1;
+  position: absolute; }
+  .alejandria h1 {
+    font-family: roboto;
+    font-size: 26px;
+    font-weight: bold; }
+  .alejandria span {
+    font-family: roboto;
+    font-size: 14px;
+    color: #504741; }
+  .alejandria p {
+    font-family: roboto;
+    font-size: 16px;
+    color: #504741; }
+  .alejandria img {
+    height: 30px;
+    width: 30px;
+    float: right;
+    margin: 0 5px; }
+  .alejandria button {
+    width: 200px;
+    text-align: left;
+    background: #037F43;
+    border: none;
+    color: white;
+    font-family: roboto;
+    padding-left: 15px; }
+    .alejandria button img {
+      height: 25px;
+      width: 25px;
+      float: right; }
+  .alejandria h2 {
+    color: #504741;
+    font-family: roboto;
+    font-weight: bold; }
+
+.boton_descubrir {
+  border-radius: 15px; }
+
+.cali {
+  top: 500px;
+  left: 630px;
+  width: 464px;
+  height: 210px;
+  opacity: 1;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 10px 30px #00000026;
+  border-radius: 15px;
+  position: absolute; }
+  .cali .img_ciudad {
+    width: 225px;
+    height: 210px;
+    float: right;
+    border-radius: 0 15px 15px 0; }
+  .cali h1 {
+    color: #008C44; }
+  .cali p {
+    font-family: roboto;
+    font-weight: bold;
+    color: #008C44;
+    margin: 0;
+    font-size: 16px; }
+  .cali span {
+    color: #504741;
+    font-family: roboto;
+    font-weight: bolder;
+    font-size: 14px; }
+  .cali .img_cristo {
+    width: 55px;
+    height: 55px;
+    margin: 0 5px;
+    float: left; }
+
+.img_mensaje {
+  height: 30px;
+  width: 30px; }
+
+.contenedor {
+  width: 450px;
+  height: 200px;
+  background-color: #f2f2f2f2;
+  border-radius: 15px;
+  left: 450px;
+  top: -200px;
+  position: relative; }
+
+#hogar {
+  background-color: #f2f2f2f2; }
+
+.contenedores {
+  justify-content: center; }
+  .contenedores .contenedor-1 {
+    width: auto;
+    height: 317px;
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    margin: 0 10px; }
+  .contenedores .contenedor-2 {
+    width: auto;
+    height: 317px;
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    margin: 0 10px; }
+  .contenedores .contenedor-3 {
+    width: auto;
+    height: 317px;
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    margin: 0 10px; }
+  .contenedores .contenedor-4 {
+    width: auto;
+    height: 317px;
+    position: relative;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    margin: 0 10px; }
+  .contenedores button {
+    border-radius: 25px; }
+
+/*# sourceMappingURL=estilos.css.map */
